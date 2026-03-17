@@ -30,3 +30,15 @@ def validarNombre(nombre):
    else:
        return True
 
+def validarDecimal(mensaje):
+   try:
+       if isinstance(mensaje, str):
+           texto = mensaje.strip()
+           if texto == "":
+               return None
+           if texto.lstrip("-").isdigit():
+               return float(texto)
+           return float(input(mensaje))
+       return float(mensaje)
+   except Exception:
+       return None
