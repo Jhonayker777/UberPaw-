@@ -1,6 +1,6 @@
 <aside>
   
-🌿# ***README - Transporte para mascotas***
+# ***README - Transporte para mascotas***
 
 *Esta aplicación consiste en que los usuarios, dueños de mascotas, puedan solicitar servicios de transporte seguro para sus mascotas de una manera fácil y económica. La aplicación se divide en cuatro partes fundamentales, donde se pueden observar las funciones y los datos requeridos de las personas que conforman la aplicación.* 
 
@@ -28,7 +28,7 @@ Registro → Registro del vehículo → Gestión de viajes → Calificación*
 Gestión de perfiles → Gestión de viajes → Supervisión y seguridad*
 
 <aside>
-🌿
+
 
 # ***REQUERIMIENTOS USUARIOS - Personas dueñas de mascotas***
 
