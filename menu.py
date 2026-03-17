@@ -1,4 +1,4 @@
-============================================================
+#============================================================
 #  🐾 UberPaws! - Menú Principal
 #  Proyecto: Uber para mascotas
 #  Metodología: Scrum
@@ -131,7 +131,7 @@ def menuAdministradorConductores():
             break
 
 
-#USUARIO: ingresa con correo
+#USUARIO: ingresa con correo y constraseña 
 def menuUsuario():
     while True:
         op = validarMenu("""
@@ -139,7 +139,7 @@ def menuUsuario():
                     ¿Que deseas hacer?
                     **********************
                     1. Registrarme (primera vez)
-                    2. Ingresar con mi correo
+                    2. Ingresar 
                     3. Salir
                     """, 1, 3)
         while op is None:
