@@ -43,7 +43,7 @@ El conductor decide si acepta o rechaza el viaje según las condiciones de la ma
 
 <aside>
   
-🌼# ***REQUERIMIENTOS CONDUCTORES - Vehiculos***
+# ***REQUERIMIENTOS CONDUCTORES - Vehiculos***
 
 *🐞 **Registro:**  Se solicita los datos básicos del conductor, como nombre, apellido, correo, número de contacto y la creación de una contraseña, con el fin de validar su identidad dentro de la plataforma. Se registra la información del vehículo, incluyendo el modelo, la capacidad máxima, las placas y los documentos de propiedad, además de los papeles al día en aseguradoras e impuestos. También se exige el certificado de capacitación en conducción para garantizar que el conductor esté formalmente preparado.*
 
@@ -53,7 +53,7 @@ El conductor decide si acepta o rechaza el viaje según las condiciones de la ma
 
 <aside>
   
-🌼# ***REQUERIMIENTOS ADMINISTRADORES - Dueños***
+# ***REQUERIMIENTOS ADMINISTRADORES - Dueños***
 
 *🍃 **Funciones:**  El sistema administrativo permite editar la información de todos los perfiles, incluyendo usuarios, mascotas y conductores, y también ofrece la opción de eliminar cuentas cuando sea necesario. Desde este panel se pueden revisar los comentarios y calificaciones que los conductores dejan sobre los usuarios, así como habilitar funciones de comunicación como llamadas o mensajes entre ambas partes. También incluye un menú para elegir entre la gestión de usuarios o conductores.*
 
@@ -63,7 +63,7 @@ El conductor decide si acepta o rechaza el viaje según las condiciones de la ma
 
 <aside>
   
-🌼# SEGURIDAD - Complementos
+# SEGURIDAD - Complementos
 
 ***🪷Seguridad:**  La seguridad del sistema reúne todas las funciones que garantizan que tanto usuarios como conductores puedan usar la plataforma sin riesgos y con información confiable. La aplicación debe mostrar claramente los datos del conductor y del vehículo para que, al llegar al punto de origen, el usuario pueda verificar que coinciden, y lo mismo ocurre a la inversa: el conductor también valida la identidad del pasajero. Además, el sistema registra la duración del viaje y compara el tiempo real con el estimado, mientras hace seguimiento de la ruta recorrida para asegurar que el trayecto sea el correcto.
 También se incluye un botón de emergencia disponible tanto para el conductor como para el usuario, útil en caso de accidentes, desvíos sospechosos o cualquier inconveniente durante el recorrido. Para proteger la información, todos los perfiles deben contar con contraseña, y se implementan medidas de protección de datos personales junto con un sistema antifraude que evita suplantaciones o manipulaciones indebidas dentro de la plataforma.*
