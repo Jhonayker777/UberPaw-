@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #============================================================
+=======
+# ============================================================
+>>>>>>> f0b92887b5357c2d12926c079f5628ded951d994
 #  🐾 UberPaws! - Menú Principal
 #  Proyecto: Uber para mascotas
 #  Metodología: Scrum
@@ -185,4 +189,4 @@ def menuConductor():
             break
 
 
-menuPrincipal()
+
